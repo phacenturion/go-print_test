@@ -1,3 +1,3 @@
-module print_test
+module print_teste
 
 go 1.17
