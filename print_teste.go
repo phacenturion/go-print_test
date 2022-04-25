@@ -10,7 +10,3 @@ func Print_test() {
 func Str_test() string {
 	return "another"
 }
-
-func main() {
-	print(Str_test())
-}

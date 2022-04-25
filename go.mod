@@ -1,3 +1,3 @@
-module github.com/phacenturion/print_teste
+module print_teste
 
 go 1.17
